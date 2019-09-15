@@ -3,9 +3,12 @@
 ## Version 1.0 - September 15, 2019
 > **NOTE** This code is use for educational purposes
 
+
 ---
 ### Java program that will allow the user to enter 5 to 7 processes and choose from the following sorting procedures
 **Process properties:**
+
+---
 - **ID**
 - **Arrival Time**
     - > by arrival time (first come - first serve)
@@ -16,7 +19,6 @@
 
 ### A Sample Image for Main Menu
 ![MainMenu](https://github.com/eksqtr/Processes-Sorting-Procedures/blob/master/image/Image.PNG)
----
 
 
 ### This program uses: 
