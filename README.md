@@ -12,6 +12,9 @@
 - **Priority**
     - > by priority (1= highest priority, 5 = lowest priority) If both process have same priority, break the tie using CBT  If both process have same priority and CBT, break the tie using arrival time.
 
+### A Sample Image for Main Menu
+![MainMenu](/image.png)
+
 **Program code highlights**
 - [x] **Fully functional**
 - [x] **User-friendly**
